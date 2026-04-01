@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> MARKETING & OTHER SERVICES </title>
+
+
+
+ <style>
+    body{
+	background-color: skyblue; 
+	}
+	
+	
+	h1{
+	color: RED;
+	text-align: center;
+	font-size: 80px;
+	font-weight: bold;
+	}
+	
+	   p{
+	   font-family: Georgia;
+	   font-size: 35px;
+	   text-align: center;
+	   }
+	   
+	   
+	   .para1{
+	   font-size: 50px;
+	   text-align: center;
+	   color: red;
+	   text-decoration: underline;
+	   }
+	   
+	   .gob{
+	   text-align: left;
+	   }
+	   
+	   button{
+	   background-color: yellow;
+	   font-weight: bold;
+	   font-size: 20px;
+	   }
+	   
+	   
+	   @media (max-width: 600px) {
+
+    h1 {
+        font-size: 40px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    .btn-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    button {
+        width: 80%;
+        margin: 10px 0;
+        font-size: 16px;
+    }
+}
+	   
+	   </style>
+</head>	   
+<body>
+
+       <div class="gob">
+	   <a href="finalportfolio.html">
+	   <button> GO BACK TO HOME PAGE </button> 
+	   </a>
+	   
+	   
+	   <h1> MARKETING & OTHER SEVICES </h1>
+	   
+	   <p> We can provide various types of services such as catchy video of your products
+          ,management,supply chain (if possible) online and offline<br>   
+	       we can also provide/create website for your shop/store <br>
+		   <br>
+		   
+		   <strong> FOR MORE DETAILS CONTACT US </strong>
+		   </p>
+		   
+		   <div class="para1">
+		   <strong> THANKS FOR VISITING US </strong>
+		   </div>
+		   
+		   </body>
+		   </html>
